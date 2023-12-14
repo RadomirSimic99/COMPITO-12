@@ -1,0 +1,26 @@
+.jumbotron h1 {
+    background-color: blueviolet;
+}
+.nav > span {
+    background-color: rgb(43, 226, 141);
+}
+.jumbotron a {
+    background-color: azure;
+}
+.blog-post:first-child{
+    background-color:rebeccapurple;
+}
+
+.nav > span:nth-child(even) {
+    background-color: chocolate;
+}
+
+.blog-main .blog-post:nth-child(3) .blog-post-meta a {
+    background-color: brown;
+}
+.blog-footer a {
+    background-color: coral;
+}
+.blog-footer a:nth-child(2) {
+    background-color: blue;
+}
